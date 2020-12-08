@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lanor\\Desktop\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lanor\\Desktop\\calendar.solution\\calendar.tests\\Calendar.Tests.csproj",
       "projectName": "Calendar.Tests",
-      "projectPath": "C:\\Users\\lanor\\Desktop\\Calendar.Solution\\calendar.tests\\Calendar.Tests.csproj",
+      "projectPath": "C:\\Users\\lanor\\Desktop\\calendar.solution\\calendar.tests\\Calendar.Tests.csproj",
       "packagesPath": "C:\\Users\\lanor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lanor\\Desktop\\Calendar.Solution\\calendar.tests\\obj\\",
+      "outputPath": "C:\\Users\\lanor\\Desktop\\calendar.solution\\calendar.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5867,8 +5867,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\lanor\\Desktop\\Calendar.Solution\\Calendar\\Calendar.csproj": {
-              "projectPath": "C:\\Users\\lanor\\Desktop\\Calendar.Solution\\Calendar\\Calendar.csproj"
+            "C:\\Users\\lanor\\Desktop\\calendar.solution\\Calendar\\Calendar.csproj": {
+              "projectPath": "C:\\Users\\lanor\\Desktop\\calendar.solution\\Calendar\\Calendar.csproj"
             }
           }
         }
